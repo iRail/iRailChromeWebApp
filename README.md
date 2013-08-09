@@ -14,6 +14,7 @@ TODO
   - The "package" buttons works again in chrome
 - publish in chrome webstore
   - Awaits approval
+  - chrome dashboard at: https://chrome.google.com/webstore/developer/dashboard
 
 ## Not so urgent
 - add in delays
