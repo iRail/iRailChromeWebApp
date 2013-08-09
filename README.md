@@ -8,8 +8,12 @@ TODO
 
 ## Urgent
 - include update URL
+  - Not necessary when using the chrome developers dashboard
+  - Only to be used when self hosting the packaged version
 - figure out how to compile to actual webapp
+  - The "package" buttons works again in chrome
 - publish in chrome webstore
+  - Awaits approval
 
 ## Not so urgent
 - add in delays
